@@ -15,6 +15,8 @@
 
 #define ILOSC_TEST 8
 
+//Testing testing
+
 clock_t                                 start, koniec;                              //Czas pobierania danych
 std::string                             url_crypto = "";
 std::string                             url_crypto_szczegolowe_dane = "https://api.binance.com/api/v3/ticker/24hr?symbols=%5B%22BTCUSDT%22,%22BNBUSDT%22%5D";
